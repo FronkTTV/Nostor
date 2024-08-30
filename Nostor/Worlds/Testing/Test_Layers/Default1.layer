@@ -8,7 +8,6 @@ GenericWorldEntity world {
   "{7037BF6589EEFD5D}Terrains/Common/Sky/Planets/Sun_01.emat" "{63C716F4064F5D43}Terrains/Common/Sky/Planets/Moon_01.emat" "{C8DD10DC67D45E10}Terrains/Common/Sky/Planets/Stars_01.emat"
  }
  CloudsRenderer SkyVolCloudsRenderer
- CloudsPreset "{D3683C927920C51D}Terrains/Common/Sky/Clouds/Clouds_Volumetric.emat"
  OceanMaterial "{5BD82BC098CB7A2C}Terrains/Common/Water/Ocean/ocean.emat"
  OceanSimulation "{F26EDA25FFC4D86C}Terrains/Common/Water/Ocean/Simulation/oceanSimWindy2.emat"
  ShoreSimulation "{FF44213235FE9E4C}Terrains/Common/Water/Ocean/Simulation/ShoreSim_base.emat"
